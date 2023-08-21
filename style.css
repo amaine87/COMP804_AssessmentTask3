@@ -1,0 +1,65 @@
+/* Task 1 Style */
+#task-1{
+    background-color: lightblue;
+    width: 600px;
+
+    padding: 10px;
+    border: 1px solid black;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    color:dimgray;
+}
+/* Task 1 Style Ends */
+
+#task-2 {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 900px;
+}
+
+#task-2 td{
+    border: 1px solid #f1f1f1;
+    padding: 8px;
+    text-align: left;
+}
+
+#task-2 th{
+    border: 1px solid #f1f1f1;
+    background-color: #021740;
+    color: white;
+    padding: 10px;
+    text-align: left;
+}
+
+#task-2 tr:nth-child(even) {
+    background-color: #f1f1f1;
+}
+/* Task 2 Ends */
+
+/* Task 3 Starts */
+#task-3{
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 800px;
+}
+
+#task-3 td, #task-3 th{
+    border: 2px solid black;
+    padding: 15px;
+}
+
+#task-3 th{
+    background-color: #555555;
+    color: white;
+}
+
+.img-col {
+    width: 300px;
+    margin: auto;
+}
+
+#task-3 tr:nth-child(even) {
+    background-color: #f9e1e1;
+}
+/* Task 3 ends */
